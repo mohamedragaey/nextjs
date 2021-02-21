@@ -37,7 +37,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "next start",
     "postbuild": "next-sitemap",
     "analyze": "cross-env ANALYZE=true yarn build"
