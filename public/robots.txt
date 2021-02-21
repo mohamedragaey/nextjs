@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.credinvestments.com/
+
+# Sitemaps
+Sitemap: https://www.credinvestments.com/sitemap.xml

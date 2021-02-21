@@ -1,0 +1,56 @@
+{
+  "player": {
+    "title": "Players",
+    "image": "/public/logo.svg",
+    "description": "CRED helps athletes accelerate their savings and investments so that footballers can secure their post career financial future.",
+    "schema": "/"
+  },
+  "clubs": {
+    "title": "Clubs",
+    "image": "/public/logo.svg",
+    "description": "CRED provides football clubs with unique financing and commercial opportunities in the Premier League, La Liga, Bundesliga, Ligue 1, Championship and Serie A.",
+    "schema": "/clubs"
+  },
+  "about": {
+    "title": "About",
+    "image": "/public/logo.svg",
+    "description": "CRED is an investment platform for sports and entertainment, providing investors with access to new asset classes.",
+    "schema": "/about"
+  },
+  "blog": {
+    "title": "Blog",
+    "image": "/public/logo.svg",
+    "description": "The CRED Blog is a place to learn more about finance in sports and to assist industry participants with key insights.",
+    "schema": "/blog"
+  },
+  "verify": {
+    "title": "verify",
+    "image": "/public/logo.svg",
+    "description": "The CRED Blog is a place to learn more about finance in sports and to assist industry participants with key insights.",
+    "schema": "/verify"
+  },
+  "password": {
+    "title": "password",
+    "image": "/public/logo.svg",
+    "description": "The CRED Blog is a place to learn more about finance in sports and to assist industry participants with key insights.",
+    "schema": "/recover/password"
+  },
+  "talentPassword": {
+    "title": "talent Password",
+    "image": "/public/logo.svg",
+    "description": "The CRED Blog is a place to learn more about finance in sports and to assist industry participants with key insights.",
+    "schema": "/recover/talent-password"
+  },
+  "verifyTalent": {
+    "title": "verify Talent",
+    "image": "/public/logo.svg",
+    "description": "The CRED Blog is a place to learn more about finance in sports and to assist industry participants with key insights.",
+    "schema": "/verify-talent"
+  },
+  "privacyPolicy": {
+    "title": "Privacy Policy",
+    "image": "/public/logo.svg",
+    "description": "The CRED Blog is a place to learn more about finance in sports and to assist industry participants with key insights.",
+    "schema": "/privacy-policy"
+  }
+}
